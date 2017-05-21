@@ -1,4 +1,4 @@
-from rpc import RPCClient
+from .rpc import RPCClient
 
 
 class GPIOClient(RPCClient):
